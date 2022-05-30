@@ -1,6 +1,6 @@
 #include<windows.h>
 #include<GL/glut.h>
-
+// parallal line draw
 void display()
 {
     glClear(GL_COLOR_BUFFER_BIT);  ///Clear the color buffer of background
